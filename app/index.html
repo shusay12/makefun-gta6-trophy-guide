@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="brand-mark" aria-hidden="true">LL</div>
+    <div>
+      <h1>Leonida Legend</h1>
+      <p class="tagline">Grand Theft Auto VI — Trophy Guide &amp; Tracker · PlayStation 5 · all 55 trophies</p>
+    </div>
+  </div>
+  <div class="stats" id="stats" aria-label="Progress summary">
+    <div class="stat-ring">
+      <svg viewBox="0 0 44 44" width="52" height="52" role="img" aria-label="Completion percent">
+        <circle class="ring-bg" cx="22" cy="22" r="19"></circle>
+        <circle class="ring-fg" id="ringFg" cx="22" cy="22" r="19"></circle>
+      </svg>
+      <span class="ring-num" id="ringNum">0%</span>
+    </div>
+    <div class="stat-lines">
+      <p class="stat-main"><strong id="earnedCount">0</strong> of 55 earned</p>
+      <p class="stat-sub" id="gradeLine">Platinum 0/1 · Gold 0/2 · Silver 0/6 · Bronze 0/46</p>
+      <p class="stat-sub" id="pointsLine">0 of 1,230 PSN points</p>
+    </div>
+  </div>
+</header>
+
+<nav class="tabs" aria-label="Views">
+  <button class="tab active" data-tab="tracker">Tracker</button>
+  <button class="tab" data-tab="roadmap">Roadmap to Platinum</button>
+  <button class="tab" data-tab="planner">Next Up Planner</button>
+  <span class="tab-spacer"></span>
+  <label class="switch" title="Hide names and descriptions of story trophies until they are earned">
+    <input type="checkbox" id="spoilerToggle"> Spoiler shield
+  </label>
+  <button class="tool" id="exportBtn" title="Download your progress as a JSON file">Export progress</button>
+  <label class="tool file-tool" title="Load progress from a JSON file you exported">Import progress
+    <input type="file" id="importFile" accept="application/json" hidden>
+  </label>
+  <button class="tool" id="sampleBtn" title="Fill in a sample hunt so you can see the tracker at work">Try sample progress</button>
+  <button class="tool danger" id="resetBtn" title="Clear all saved progress">Reset</button>
+</nav>
+
+<main>
+  <section id="view-tracker" class="view active">
+    <div class="toolbar">
+      <input type="search" id="searchBox" placeholder="Search trophies, missions, places…" aria-label="Search trophies">
+      <div class="chips" id="kindChips" role="group" aria-label="Filter by kind">
+        <button class="chip active" data-kind="all">All 55</button>
+        <button class="chip" data-kind="story">Story</button>
+        <button class="chip warn" data-kind="missable">Missable watch</button>
+        <button class="chip" data-kind="collectibles">Collectibles</button>
+        <button class="chip" data-kind="activities">Activities</button>
+        <button class="chip" data-kind="partner">Partner</button>
+        <button class="chip" data-kind="feats">Free-roam feats</button>
+      </div>
+      <div class="chips" id="gradeChips" role="group" aria-label="Filter by grade">
+        <button class="chip active" data-grade="all">Any grade</button>
+        <button class="chip g-platinum" data-grade="platinum">Platinum</button>
+        <button class="chip g-gold" data-grade="gold">Gold</button>
+        <button class="chip g-silver" data-grade="silver">Silver</button>
+        <button class="chip g-bronze" data-grade="bronze">Bronze</button>
+      </div>
+      <div class="chips" id="stateChips" role="group" aria-label="Filter by state">
+        <button class="chip active" data-state="all">All</button>
+        <button class="chip" data-state="remaining">Remaining</button>
+        <button class="chip" data-state="earned">Earned</button>
+      </div>
+    </div>
+    <div class="tracker-grid">
+      <ol class="trophy-list" id="trophyList"></ol>
+      <aside class="detail" id="detailPane" aria-label="Trophy guide"></aside>
+    </div>
+  </section>
+
+  <section id="view-roadmap" class="view">
+    <div class="roadmap-head">
+      <h2>Roadmap to the Platinum</h2>
+      <p>Seven stages, built from the official trophy descriptions: story first, people of Leonida second,
+      then the long collection and activity grinds, the one-moment feats while the world is open, and the
+      finale last. <span class="flag-key">⚠ Missable watch</span> marks trophies whose official wording ties
+      them to a single moment — secure those the moment the game offers them.</p>
+      <p class="roadmap-progress" id="roadmapProgress"></p>
+    </div>
+    <div id="roadmapStages"></div>
+  </section>
+
+  <section id="view-planner" class="view">
+    <div class="roadmap-head">
+      <h2>Next Up</h2>
+      <p>The planner walks the roadmap in order and shows your next unfinished trophies — missable-watch
+      items first, then the earliest roadmap stage you have not finished. Counters use the targets
+      PlayStation tracks, as listed by PSNProfiles.</p>
+    </div>
+    <div class="planner-grid" id="plannerGrid"></div>
+  </section>
+</main>
+
+<footer>
+  <p>Guides are written for this tracker and cite their sources beside every trophy. Trophy names,
+  descriptions and grades are the official PlayStation list, frozen 2026-11-18 from Exophase and
+  PSNProfiles. Progress is saved only in this browser (localStorage) — export it to keep a backup.
+  This is a fan-made guide; it uses no Rockstar Games artwork or logos.</p>
+</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>
