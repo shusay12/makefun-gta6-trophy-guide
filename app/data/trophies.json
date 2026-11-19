@@ -1,0 +1,337 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "trophies": [
+  {
+   "id": 1, "name": "Vice Got a Price!", "description": "Congratulations! You're a Leonida Legend.", "grade": "platinum",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 7,
+   "guide": "This is the meta-trophy: it unlocks by itself once the other 54 trophies on the list are earned, so there is nothing separate to hunt. Use this tracker's counter as the checklist — when it reads 54 of 54, the platinum completes the set and you are, as the official description puts it, a Leonida Legend.",
+   "sources": ["Official PlayStation trophy list (names, descriptions, grades), frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 2, "name": "Just Like Paradise", "description": "Complete Gone Fishing.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 1,
+   "guide": "Play the opening mission, Gone Fishing, through to its end. It is the first thing the game asks of you, so no preparation is needed: finish the introduction and the trophy follows the mission-complete screen.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 3, "name": "Paradise Lost", "description": "Complete Chapter 1.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 1,
+   "guide": "Complete Chapter 1 of the story campaign. Follow the main mission markers after the opening and the trophy lands when the chapter closes — no side content is required.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 4, "name": "T**s Ass Drug Money", "description": "Complete Chapter 2.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 1,
+   "guide": "Complete Chapter 2 of the story campaign. Keep progressing the main missions after Chapter 1 ends; the trophy is awarded as the chapter finishes, so a straight story push is the whole method.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 5, "name": "Vice City, Baby!", "description": "Complete Chapter 3.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 2,
+   "guide": "Complete Chapter 3 of the story campaign. By now the stranger strands of stage 3 are opening up alongside the story; finish the chapter first, then sweep the strands before the finale.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 6, "name": "Top Of The World, Ma", "description": "Complete Chapter 4.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 2,
+   "guide": "Complete Chapter 4 of the story campaign. Keep a manual save before the chapter's final mission so any story moment you want to revisit is never far away.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 7, "name": "You Gotta Know When to Get Off", "description": "Complete the final mission.", "grade": "gold",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 7,
+   "guide": "Complete the final mission of the story — this is the gold that closes the campaign. Secure every Missable watch item on this list before you start it, because the story is ending and its moments end with it.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 8, "name": "Trust", "description": "Complete Breakfast Run.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 1,
+   "guide": "Complete the story mission Breakfast Run. It arrives early in the campaign; play it when the marker appears and the trophy follows completion.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 9, "name": "Break the Bank", "description": "Complete The Cartel Heist.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 2,
+   "guide": "Complete the story mission The Cartel Heist. It is one of the campaign's named set-piece scores in stage 2; finish the heist and the trophy is yours.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 10, "name": "Family Matters", "description": "Complete Child's Play.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 2,
+   "guide": "Complete the story mission Child's Play when it appears in the campaign. A straight completion is all the official description asks for.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 11, "name": "DWNFALL", "description": "Complete Headliners.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 2,
+   "guide": "Complete the story mission Headliners. Play it as the campaign offers it in stage 2 and the trophy follows the mission-complete screen.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 12, "name": "Hi-Jacked", "description": "Complete VCIA Takedown.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 2,
+   "guide": "Complete the story mission VCIA Takedown. Remember the location: VCIA is also where the free-roam trophy Catch Me If You Can is set, so learn the place while the story takes you there.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 13, "name": "Snow Storm", "description": "Complete Operation Savage Glory.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 2,
+   "guide": "Complete the story mission Operation Savage Glory. A straight story completion in stage 2; no collectible or side requirement is attached to it.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 14, "name": "A Long Road", "description": "Attain 100% Completion.", "grade": "gold",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 7,
+   "guide": "Attain 100% completion on the game's own completion counter. That means the story, the stranger strands, and the tracked collections and activities on this list. Work the roadmap stages in order and let the in-game percentage — not this tracker — be the final judge of what is left.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 15, "name": "Cunning Stunts", "description": "Complete 250 Stunts.", "grade": "silver",
+   "kind": "activities", "missable": false, "target": 250, "unit": "stunts", "stage": 5,
+   "guide": "Complete 250 stunts. Stunts count as you land them, and the counter in this guide tracks the full 250 the official description requires. Natural driving plus the stunt spots you find while opening up Leonida in stage 4 will carry most of the total; grind what remains at your favourite jumps.",
+   "sources": ["Official PlayStation trophy list (250 stunts), frozen 2026-11-18 from Exophase", "PSNProfiles progress target for this trophy"]
+  },
+  {
+   "id": 16, "name": "Master of None", "description": "Try each type of activity once.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": 9, "unit": "activity types", "stage": 5,
+   "guide": "Try each type of activity once — all 9 types, per the count behind the official description. One honest attempt at each type is enough; use the activities you meet during the story and stage 5, and tick a type off after your first try at it.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list (9 activity types), frozen 2026-11-18"]
+  },
+  {
+   "id": 17, "name": "The Shootist", "description": "Earn a gold medal in all Shooting Range challenges.", "grade": "silver",
+   "kind": "activities", "missable": false, "target": 42, "unit": "gold medals", "stage": 5,
+   "guide": "Earn a gold medal in all 42 Shooting Range challenges — the 42 is the count PSNProfiles tracks behind the official description. Gold is score-based, so learn one range's targets at a time, replay it for the medal, and move on; the counter here holds your progress across all 42.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles progress target (42 challenges), frozen 2026-11-18"]
+  },
+  {
+   "id": 18, "name": "Top Fun", "description": "Win a Top Fun Drone Race at every location.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": 14, "unit": "locations", "stage": 5,
+   "guide": "Win a Top Fun Drone Race at every location — 14 locations in all, per the count behind the official description. A win at each distinct location is what counts, not repeat wins, so travel the circuit once and clear it stop by stop.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles progress target (14 locations), frozen 2026-11-18"]
+  },
+  {
+   "id": 19, "name": "Earn Cash, Not Kudos", "description": "Win 20 different races.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": 20, "unit": "race wins", "stage": 5,
+   "guide": "Win 20 different races. Different is the key word in the official description: winning the same race twice does not advance the count, so keep moving to fresh events across Leonida and count each new win here.",
+   "sources": ["Official PlayStation trophy list (20 different races), frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 20, "name": "Baited My Tackle", "description": "Beat Cal in a fishing challenge.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": null, "unit": "", "stage": 5,
+   "guide": "Beat Cal in a fishing challenge. Find the challenge through the fishing activity, bring your best catch, and out-fish him once — a single win over Cal is the whole trophy.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 21, "name": "Stick Fiddler", "description": "Complete an arcade game.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": null, "unit": "", "stage": 5,
+   "guide": "Complete an arcade game. Pick any arcade cabinet you find in the world and play it through to completion once; the official description asks for a finish, not a high score.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 22, "name": "Road to Rehabilitation", "description": "Complete the final mission for Andy.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 3,
+   "guide": "Complete the final mission for Andy. Work Andy's mission strand whenever it appears on the map and finish its last job; strands like this are exactly why stage 3 of the roadmap sits before the finale.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 23, "name": "This Was No Boat Accident", "description": "Complete the final mission for Kenton.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 3,
+   "guide": "Complete the final mission for Kenton. Follow Kenton's strand to its last job and finish it during stage 3, while the story people are all still on the map.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 24, "name": "The Lone Rider", "description": "Complete the final mission for Billy.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 3,
+   "guide": "Complete the final mission for Billy. Take Billy's jobs as they appear and close the strand with its final mission before you start the endgame.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 25, "name": "Strangers & Freaks", "description": "Complete 8 mission strands for strangers across the state of Leonida.", "grade": "silver",
+   "kind": "story", "missable": false, "target": 8, "unit": "stranger strands", "stage": 3,
+   "guide": "Complete 8 mission strands for strangers across the state of Leonida. Each strand is a chain of jobs for one stranger; finish chains rather than starting new ones, and the counter here tracks all 8 completed strands.",
+   "sources": ["Official PlayStation trophy list (8 strands), frozen 2026-11-18 from Exophase", "PSNProfiles progress target, frozen 2026-11-18"]
+  },
+  {
+   "id": 26, "name": "Supply & Demand", "description": "Complete the final mission for Randy.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 3,
+   "guide": "Complete the final mission for Randy. Randy's strand is one of the stage 3 arcs; run it to its last job and the trophy follows.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 27, "name": "Spin On This!", "description": "Complete the final mission for Tyrone.", "grade": "bronze",
+   "kind": "story", "missable": false, "target": null, "unit": "", "stage": 3,
+   "guide": "Complete the final mission for Tyrone. Finish Tyrone's strand during stage 3 so no character arc is left hanging when the finale begins.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 28, "name": "Positive Mental Attitude", "description": "Meditate at every spot across Leonida.", "grade": "bronze",
+   "kind": "collectibles", "missable": false, "target": 18, "unit": "meditation spots", "stage": 4,
+   "guide": "Meditate at every spot across Leonida — 18 spots, per the count behind the official description. The spots are fixed places in the world; clear them region by region during stage 4 and count each one off here as you sit.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles progress target (18 spots), frozen 2026-11-18"]
+  },
+  {
+   "id": 29, "name": "Fair Game", "description": "Hunt a unique animal for Bret.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": null, "unit": "", "stage": 5,
+   "guide": "Hunt a unique animal for Bret. Take Bret's hunting request when it appears and bring down the unique animal it names; this is a one-animal trophy, not a grind, so a single successful hunt finishes it.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 30, "name": "Don't Touch My Deck", "description": "Complete 3 Collectible Card sets.", "grade": "silver",
+   "kind": "collectibles", "missable": false, "target": 3, "unit": "card sets", "stage": 4,
+   "guide": "Complete 3 Collectible Card sets. Cards are found in the world and gathered into sets; finish any three full sets — partial sets do not count toward the 3, so focus your searching on completing sets you have already started.",
+   "sources": ["Official PlayStation trophy list (3 sets), frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 31, "name": "You WAiNKer!", "description": "WAiNK It at 100 locations.", "grade": "silver",
+   "kind": "collectibles", "missable": false, "target": 100, "unit": "locations", "stage": 4,
+   "guide": "WAiNK It at 100 locations. Each distinct location counts once, so treat this as a tour of Leonida: tag a few in every area you open during stage 4 and the full 100 will come without a dedicated grind at the end.",
+   "sources": ["Official PlayStation trophy list (100 locations), frozen 2026-11-18 from Exophase", "PSNProfiles progress target, frozen 2026-11-18"]
+  },
+  {
+   "id": 32, "name": "One Last Thing", "description": "Complete 50 Challenges.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": 50, "unit": "challenges", "stage": 5,
+   "guide": "Complete 50 Challenges. Challenges are the short tracked tasks the game offers around the world; accept them as you explore and the count builds naturally alongside stage 5.",
+   "sources": ["Official PlayStation trophy list (50 challenges), frozen 2026-11-18 from Exophase", "PSNProfiles progress target, frozen 2026-11-18"]
+  },
+  {
+   "id": 33, "name": "Hot Together", "description": "Lose a 4 star Wanted Level with your partner and escape the heat.", "grade": "bronze",
+   "kind": "partner", "missable": true, "target": null, "unit": "", "stage": 6,
+   "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Raise the wanted level to 4 stars while your partner is with you, then break line of sight and stay hidden until the stars clear. Both halves — the 4 stars and the clean escape — must happen in the same run, which is why this trophy sits on the missable watch.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 34, "name": "Retail Therapy", "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.", "grade": "bronze",
+   "kind": "partner", "missable": true, "target": null, "unit": "", "stage": 6,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Plan three nearby shops first: rob the first, keep the wanted level alive on the way to the next, and finish the third before the heat dies. Losing the level mid-run restarts the chain, so it is on the missable watch.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 35, "name": "Whip It Good", "description": "Discover 100 vehicles.", "grade": "bronze",
+   "kind": "collectibles", "missable": false, "target": 100, "unit": "vehicles discovered", "stage": 4,
+   "guide": "Discover 100 vehicles. New models count as you encounter them, and traffic variety across Leonida's 52 areas does most of the work during stage 4 — swap cars often instead of keeping one favourite.",
+   "sources": ["Official PlayStation trophy list (100 vehicles), frozen 2026-11-18 from Exophase", "PSNProfiles progress target, frozen 2026-11-18"]
+  },
+  {
+   "id": 36, "name": "Gunslinger", "description": "Take down 5 enemies in a single use of Combat Focus.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 6,
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Wait for a crowded fight, trigger Combat Focus once, and drop five opponents before the effect ends — one activation, five takedowns.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 37, "name": "Catch Me If You Can", "description": "Make an unscheduled departure at VCIA.", "grade": "bronze",
+   "kind": "feats", "missable": true, "target": null, "unit": "", "stage": 6,
+   "guide": "Make an unscheduled departure at VCIA. VCIA is the airport the story visits in VCIA Takedown; leave it in a way the schedule never intended. The moment is tied to that one place and a single opportunity, so it is on the missable watch — try it while the airport is open to you.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 38, "name": "Challenging Tank", "description": "Kinda hot in these Rhinos.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 6,
+   "guide": "The official description only jokes that it is 'kinda hot in these Rhinos' — Rhinos being the game's tanks. Expect a tank encounter in the open world or a mission; bring the heaviest firepower you carry when one appears and see the encounter through.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 39, "name": "Sneakthief", "description": "Rob a jewelry store without being detected.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 6,
+   "guide": "Rob a jewelry store without being detected. Go in quietly, keep out of sight lines, and be gone before anyone raises the alarm — being detected at any point voids the attempt, so a slow clean job beats a fast loud one.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 40, "name": "Maximum Withdrawal", "description": "Rob 5 Bank Vaults and escape.", "grade": "silver",
+   "kind": "feats", "missable": false, "target": 5, "unit": "bank vaults", "stage": 6,
+   "guide": "Rob 5 Bank Vaults and escape. Each vault needs the full sequence — rob it and get away clean afterwards — and the counter here tracks all 5 separate jobs.",
+   "sources": ["Official PlayStation trophy list (5 vaults), frozen 2026-11-18 from Exophase", "PSNProfiles progress target, frozen 2026-11-18"]
+  },
+  {
+   "id": 41, "name": "A Classic Blitz Play", "description": "Rob an Armored Truck and escape.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 6,
+   "guide": "Rob an Armored Truck and escape. Armored trucks are moving targets in the world; stop one, take what it carries, and then lose the response that follows — the escape is part of the trophy, not an afterthought.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 42, "name": "The Goodtime State", "description": "Explore all of Leonida.", "grade": "bronze",
+   "kind": "collectibles", "missable": false, "target": 52, "unit": "areas explored", "stage": 4,
+   "guide": "Explore all of Leonida — all 52 areas, per the count behind the official description. The map fills in as you travel, so sweep the state region by region in stage 4; this pairs naturally with the meditation spots and WAiNK locations in the same areas.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles progress target (52 areas), frozen 2026-11-18"]
+  },
+  {
+   "id": 43, "name": "Pest Control", "description": "Rob an Illegal Operation belonging to each gang.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": 9, "unit": "gangs robbed", "stage": 6,
+   "guide": "Rob an Illegal Operation belonging to each gang — there are 9 gangs, per the count behind the official description. One operation per gang is the requirement, so vary your targets instead of hitting the same gang's operations twice.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list (9 gangs), frozen 2026-11-18"]
+  },
+  {
+   "id": 44, "name": "In The Beginning…", "description": "Enjoy a cocktail with a view on Ocean Beach.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": null, "unit": "", "stage": 5,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. The official description names both the place and the moment: be on Ocean Beach, order the cocktail, and take in the view — a small trophy for slowing down.",
+   "sources": ["Official PlayStation trophy list (Ocean Beach named in the description), frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 45, "name": "Capital Offense", "description": "Smash your way out of a vehicle showroom in classic style.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 6,
+   "guide": "Smash your way out of a vehicle showroom in classic style. The official description fixes the scene: you are in a vehicle, inside a showroom, and the way out is through the glass. When the moment comes, take a car out through the front of the showroom.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 46, "name": "Let’s Go Bowling", "description": "Follow-through at the Kolt & Associates' bowling alley.", "grade": "bronze",
+   "kind": "activities", "missable": false, "target": null, "unit": "", "stage": 5,
+   "guide": "Play at the Kolt & Associates' bowling alley — the location the official description names. Go to the alley and finish a game of bowling there; the follow-through is a completed game.",
+   "sources": ["Official PlayStation trophy list (Kolt & Associates named in the description), frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 47, "name": "Personal Best", "description": "A partnership with mass appeal.", "grade": "bronze",
+   "kind": "partner", "missable": false, "target": null, "unit": "", "stage": 6,
+   "guide": "The official description gives only a tease — 'a partnership with mass appeal.' Expect a partner moment that the world reacts to: when a joint activity with your partner draws attention, lean into it and finish it together rather than walking away.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 48, "name": "Actions Speak Louder", "description": "Choices made (for better or worse).", "grade": "bronze",
+   "kind": "feats", "missable": true, "target": 500, "unit": "choices made", "stage": 6,
+   "guide": "Choices made, for better or worse — and PlayStation tracks a count of 500 of them, per PSNProfiles. Dialogue and story choices accumulate as you play; because each choice belongs to a moment that passes, this sits on the missable watch. Make choices deliberately as they come rather than skipping through them, and the long count fills across the campaign.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles progress target (500 choices), frozen 2026-11-18"]
+  },
+  {
+   "id": 49, "name": "Bad Luck, I Guess", "description": "Second time's the charm.", "grade": "bronze",
+   "kind": "feats", "missable": true, "target": null, "unit": "", "stage": 6,
+   "guide": "Second time's the charm: the official description says this trophy is about succeeding on a second try. When something fails once, try it again instead of walking away — the retry itself is the trophy, and because a first failure is easy to skip past, it sits on the missable watch.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 50, "name": "The Truth Is Out There", "description": "What the hell just happened?", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 6,
+   "guide": "The official description asks 'What the hell just happened?' — this trophy is about witnessing something strange. Keep exploring the odd corners of Leonida in free roam; when something happens that makes you ask the description's question out loud, you have found it.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 51, "name": "Ten Pin", "description": "Bowl 'em over with a melee drive-by.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": null, "unit": "", "stage": 6,
+   "guide": "Bowl 'em over with a melee drive-by: knock someone down with a melee attack delivered from a moving vehicle. Line a pedestrian up from the driver's seat, swing as you pass, and the drive-by knockdown is the trophy.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles trophy list, frozen 2026-11-18"]
+  },
+  {
+   "id": 52, "name": "Dime on the Dollar", "description": "Earn $250,000 laundering Marked Bills through your contacts.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": 250000, "unit": "dollars laundered", "stage": 6,
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked bills come from scores; run them through your contacts instead of spending them raw, and let the counter here total the full quarter of a million.",
+   "sources": ["Official PlayStation trophy list ($250,000), frozen 2026-11-18 from Exophase", "PSNProfiles progress target, frozen 2026-11-18"]
+  },
+  {
+   "id": 53, "name": "Treat Yo Self", "description": "Spend $100,000 across all shops.", "grade": "bronze",
+   "kind": "feats", "missable": false, "target": 100000, "unit": "dollars spent", "stage": 6,
+   "guide": "Spend $100,000 across all shops. Ordinary play spends plenty: vehicles, clothes and services all count toward the one total, so this fills naturally long before the finale — just do not hoard your cash.",
+   "sources": ["Official PlayStation trophy list ($100,000), frozen 2026-11-18 from Exophase", "PSNProfiles progress target, frozen 2026-11-18"]
+  },
+  {
+   "id": 54, "name": "Little Boxes", "description": "Purchase all garage properties.", "grade": "bronze",
+   "kind": "collectibles", "missable": false, "target": 8, "unit": "garages bought", "stage": 4,
+   "guide": "Purchase all garage properties — 8 of them, per the count behind the official description. Save toward properties during the story stages and buy each garage as it becomes available; the counter tracks all 8 purchases.",
+   "sources": ["Official PlayStation trophy list, frozen 2026-11-18 from Exophase", "PSNProfiles progress target (8 garages), frozen 2026-11-18"]
+  },
+  {
+   "id": 55, "name": "On the Spot", "description": "Register 10 vehicles to the Scooter Bros app.", "grade": "bronze",
+   "kind": "collectibles", "missable": false, "target": 10, "unit": "vehicles registered", "stage": 4,
+   "guide": "Register 10 vehicles to the Scooter Bros app. When you take a vehicle you want to keep, register it in the app instead of abandoning it; ten registrations finish the trophy.",
+   "sources": ["Official PlayStation trophy list (10 vehicles), frozen 2026-11-18 from Exophase", "PSNProfiles progress target, frozen 2026-11-18"]
+  }
+ ]
+}
